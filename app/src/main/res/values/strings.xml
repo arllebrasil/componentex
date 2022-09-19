@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">comoponentex</string>
+    <string name="goto_pages">va para paginas</string>
+    <string name="goto_forms">Vá para o formulario</string>
+    <string name="title_activity_pages">PagesActivity</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+</resources>
